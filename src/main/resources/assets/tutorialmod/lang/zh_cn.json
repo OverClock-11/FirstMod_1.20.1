@@ -1,4 +1,6 @@
 {
   "item.tutorialmod.sapphire": "蓝宝石",
-  "item.tutorialmod.raw_sapphire": "蓝宝石原石"
+  "item.tutorialmod.raw_sapphire": "蓝宝石原石",
+
+  "creativetab.tutorial_tab": "蓝宝石教程栏"
 }
